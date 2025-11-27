@@ -1,17 +1,17 @@
-username: ENC[AES256_GCM,data:G3SZyMc=,iv:D129tdj+L/qZTb2xPpqDsMYDpcg7LA542uChApkfx6E=,tag:wjQp/QrpJLi3KyAdQDlVuA==,type:str]
-password: ENC[AES256_GCM,data:IdiQrz+UK/I=,iv:fou1qeKxCtHp2lO9fLPsFYDNNTs+Jxs36djxXhO6Bx8=,tag:JbZlvz1FEp09MOuNbFXQ3g==,type:str]
+username: ENC[AES256_GCM,data:FL7DviQ=,iv:/q/qcbp6ARoYS5blzDhqHBb4W5VLjnIk3B9iDet8Dfk=,tag:CmnZtvwA5ZVSc1C8IchL0w==,type:str]
+password: ENC[AES256_GCM,data:0mwQbL6ydFA=,iv:pfinqPxXF4tinN2VUSOwMtkP8ja4jdraF562K1Q/P/I=,tag:M/Y8qjh0PMyd0SIMWKpb0g==,type:str]
 sops:
     age:
         - recipient: age1kla7282x4aklv86808ft3y5y8kgme5csrnqmht6wemkgfnmg2pqqh5gggx
           enc: |
             -----BEGIN AGE ENCRYPTED FILE-----
-            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBlL2M3Y2tZR2x6TTdCaVkz
-            Q1RaKzFjU2VZOHQ2OVBSZlVaM3RYYW41cjJnCng2NEhNL2lVSUZsdWVCL29pVGU4
-            amZYTWpJMTlzTkx1eUh4cENiNkhqZlkKLS0tIEhZOXF5R0FFZ01obXBhSjZUYzJ0
-            cGtqOGcwbVYvbGVtSHdXMUdsOThWK2cK+9fV8LmEtCxTbvSBOcZmemVSABz8dpRs
-            QfTP2BNWVziXEpCXKeEIVP31gQrdhYYjNdnFl5ZeX4Yqg8HGwX+PJA==
+            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBDdzV4UkVtaDJseXdXTS9C
+            RitLSWZ6dE1sMm5YZU15djVCM3Q5K1NFRFJjCkdMMExsU1VTZXpMS2JDRTZCOGFL
+            OEtQNnJ3WmcrN2VoWEcvN2kyNUg3THMKLS0tIE5aVXpzMVI2OGVadkdIUjlja0w5
+            SlhIYlk1MEdtRDJIaGpqc3VKUWp1WFkK+/THBGtKsFI+ozvW2HUto1sfPHg83jyd
+            iCaBT8czzYWYVRuBsclJ/FUTriUVS+gumf1zoDv60qynujnvN8Ub0Q==
             -----END AGE ENCRYPTED FILE-----
-    lastmodified: "2025-11-27T01:40:10Z"
-    mac: ENC[AES256_GCM,data:ZtJYAuKgQ+oMePW5cQXfrDeHI6jvN7bKAb2h9mQeNO8daHjgpKWVt0B09a8+4ZWVJtUtRPxcQad5XNlAWa4PbtjAhkUNFo3WWNg/4ttav5gZ/ohN+Gf8tBXSRVxyjangmUpowbJNI9mZ+sbIJ4pb218ctYmvDWAd8wX0yRcVIE8=,iv:fI7PjFQqLRJqEXgKP6YCRJZhbTmsjbUcKviyZVBuQjc=,tag:t0GFgUoRNRW6tZKxHCSvnQ==,type:str]
+    lastmodified: "2025-11-27T01:52:37Z"
+    mac: ENC[AES256_GCM,data:XvHkZjBTiuSmKyfISrWsJA7T1BAJdRqcDUL2e+M+TNFlEq4Sd8q2RbxaxwdNr4i1PfXb2oxYsBhL4tZudWDoN+GDa1vTa9nIUHOFoCYac43conDzR9wCtB2zn7gdCc+t2A/3hqLtDFEyuM3EAYmOaoudSLvlkCiRkDqMw9c7rcA=,iv:knHE6GKWVbDwVywsvZpHlknsCfQWRC5oikg9Rm0Q3gk=,tag:gScfXA20WjcLH72Cn16RDQ==,type:str]
     unencrypted_suffix: _unencrypted
     version: 3.11.0
