@@ -5,6 +5,5 @@ resources:
   - deployment.yaml
   - services.yaml
 
-
 generators:
   - ./secret-generator.yaml

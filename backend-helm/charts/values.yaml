@@ -1,7 +1,0 @@
-service:
-  port: 80
-image:
-  repository: nginx
-  tag: stable
-username: test
-password: test123
