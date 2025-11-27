@@ -4,13 +4,14 @@ namespace: backend-helm
 
 helmGlobals:
   chartHome: ./
+
 helmCharts:
   - releaseName: backend-helm
     namespace: backend-helm
     name: charts
     version: 0.1.0
-    valuesFile: ./custom-values.yaml
+    valuesFile: ./encrypted-values.yaml
 
 
-# generators:
-  # - ./secret-generator.yaml
+generators:
+  - ./secret-generator.yaml
