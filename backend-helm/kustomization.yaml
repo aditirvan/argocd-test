@@ -10,8 +10,5 @@ helmCharts:
     namespace: backend-helm
     name: charts
     version: 0.1.0
-    valuesFile: ./encrypted-values.yaml
+    valuesFile: custom-values.yaml
 
-
-generators:
-  - ./secret-generator.yaml
