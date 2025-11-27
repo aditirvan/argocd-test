@@ -1,0 +1,9 @@
+image:
+  repository: nginx
+  tag: alpine
+service:
+  port: 80
+  targetPort: 80
+secret:
+  username: default
+  password: default
